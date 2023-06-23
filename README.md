@@ -1,5 +1,5 @@
 # ACM_Byteshell 
-![image](https://github.com/AaditGoel/ACM_Byteshell/assets/101339161/ac5a0c9f-c0f2-4691-902c-118748aa883f)
+![image](https://github.com/AaditGoel/ACM_Byteshell/assets/101339161/21fc40d3-8e1e-44c2-b6b8-e787010267b0)
 
 
 The project aims to build a simple shell using C language.In this project I have used VS code to write my code by connecting it WSL and used the GCC to compile and run it.You can connect it by installing the WSL extension in your VS code.
