@@ -34,4 +34,3 @@ The project aims to build a simple shell using C language.In this project I have
 ## References
 * ACM's session ppt
 * [https://brennan.io/2015/01/16/write-a-shell-in-c/](https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html)https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
-* https://medium.com/@santiagobedoa/coding-a-shell-using-c-1ea939f10e7e
